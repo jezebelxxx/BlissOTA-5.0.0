@@ -1,4 +1,4 @@
-# OTAUpdates
+# BlissOTA 5.0.0
 
 
 A useful tool to help ROM developers provide OTA updates to their users. It's free to use, you can build from source or use the APK provided.
